@@ -1,7 +1,7 @@
 ---
 layout: lorem-ipsum
 title: Yield Hunter
-include_in_header: false
+include_in_header: true
 ---
 ## Lorem ipsum
 
