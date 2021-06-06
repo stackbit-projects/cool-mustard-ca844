@@ -1,6 +1,6 @@
 ---
 layout: lorem-ipsum
-title: lorem-ipsum
+title: Yield Hunter
 include_in_header: false
 ---
 ## Lorem ipsum
